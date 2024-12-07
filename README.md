@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  My personal analytics dashboard: <a href="https://analytics.kierancanter.dev">analytics.kierancanter.dev</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/umami-software/umami/releases">
     <img src="https://img.shields.io/github/release/umami-software/umami.svg" alt="GitHub Release" />
   </a>
